@@ -1,0 +1,441 @@
+[
+  {
+    "title": "REGISTRAZIONE",
+    "page_start": 4,
+    "text_content": "La prima volta che si accede alla piattaforma è necessario registrarsi.Dopo aver digitato l'indirizzo https://web.agricolus.com nel tuo browser, accedi alla pagina che ti permette di registrarti cliccando su -Registrati-. Per creare un nuovo account, è necessario inserire tutte le informazioni obbligatorie contrassegnate da un asterisco (*) e accettare i termini e le condizioni obbligatorie per l'utilizzo della piattaforma.Una volta completato l'inserimento, cliccare su -Conferma-.Dopo la registrazione ti verrà inviata una e-mail di verifica all'indirizzo indicato. Nell'e-mail ricevuta, cliccare su -Verifica e-mail-. L'e-mail è valida per cinque giorni, dopo questo periodo non sarà più possibile verificare il proprio indirizzo e-mail. Nel caso in cui il link sia scaduto, è necessario registrarsi nuovamente per ricevere una nuova e-mail e completare la registrazione."   
+  },
+  {
+    "title": "LOGIN",
+    "page_start": 6,
+    "text_content": "Per accedere alla piattaforma, andare all'indirizzo https://web.agricolus.com, inserire l'e-mail e la password fornite in fase di registrazione e cliccare su -Accedi ad Agricolus-. Nel caso in cui si sia dimenticata la password, cliccare su -Hai dimenticato la password?- e seguire le istruzioni.Dopo aver effettuato il primo accesso, si aprirà questa pagina personalizzata con il tuo nome di registrazione in cui dovrai indicare la tua professione al fine di capire meglio le tue esigenze ed aspettative della piattaforma.Terminata la compilazione della scheda potrai subito scegliere se creare il tuo primo campo (clicca qui per vedere come fare  CAMPI) o creare un campo demo."
+  },
+  {
+    "title": "LAYOUT DELLA PIATTAFORMA",
+    "page_start": 8,
+    "text_content": "",
+    "subsections": [
+      {
+        "title": "Menu principale",
+        "page_start": 8,
+        "text_content": "Una volta effettuato il login, è possibile visualizzare la homepage della piattaforma.Nella sezione campi, è possibile accedere alla seguente schermata"
+      },
+      {
+        "title": "Funzionalità aggiuntive",
+        "page_start": 10,
+        "text_content": "La barra del menu nella parte superiore dello schermo comprende le seguenti funzioni aggiuntive:Per filtrare i dati in base a criteri specifici (centro aziendale, coltura, campo, intervallo ditempoPer raggruppare e ordinare i dati. Questo influenzerà l'ordine dei campi nel pannello di visualizzazione dei dati.Per visualizzare i dati storici dell’accountPer visualizzare e scaricare i documenti caricati da Agricolus o dalla tua organizzazione. Caricare i tuoi documenti (personali o da condividere con altri attori della filiera).Per leggere le nuove notizie caricate da Agricolus o dalla tua organizzazione.Per visualizzare ed accedere al materiale didattico.Per aprire il pannello di notificaPer aprire il pannello delle FAQPer entrare nello shop online dove è possibile verificare il proprio abbonamento attivo e acquistare nuove funzionalitàPer visualizzare l’account con cui si è effettuato l’accesso o per selezionare un altro account a cui si è collegati come agronomo.Per visualizzare e modificare le impostazioni del profilo (lingua, password ecc.)"
+      },
+      {
+        "title": "Storico",
+        "page_start": 11,
+        "text_content": "La funzione dello storico permette la visualizzazione dei dati inseriti in Agricolus nel tempo anche dopo la chiusura di un ciclo colturale di un campo. Posizionare il puntatore del mouse sul grafico per selezionare una data. Cliccare con il tasto sinistro del mouse per confermare la scelta Cliccare sul tasto -Visualizza i tuoi dati-Tutti i dati disponibili a quella data saranno visibili, ma non sarà possibile modificarli o eliminarli. Sono escluse dalla selezione le stazioni meteo se presenti nella propria sottoscrizione. Segnalazioni e attività sono filtrate per data di creazione o data di scadenza. Il Supporto alle Decisioni e le immagini satellitari rimarranno alla data attuale. I modelli previsionali saranno ricalcolati per la data selezionata. Possibilità di effettuare uno zoom di un determinato periodo temporale. Tenendo premuto il tasto sinistro del mouse cliccare sulla data di partenza e trascinare il mouse verso la data di fine rilasciando il tasto sinistro del mouse quando raggiunta la data desiderata.Per tornare al grafico completo cliccare sul tasto -Reset zoom-."
+      },
+      {
+        "title": "Pannello di visualizzazione dei dati",
+        "page_start": 12,
+        "text_content": "Nel pannello di visualizzazione dati si possono confrontare e analizzare tutte le informazioni relative alla voce del menu selezionata."
+      },
+      {
+        "title": "Strumenti GIS",
+        "page_start": 12,
+        "text_content": "Sul lato destro è possibile vedere la mappa di base fornita dall'ESRI e gestire le opzioni di visualizzazione della mappa.Cliccando sull'icona è possibile ingrandire o ridurre le dimensioni del pannello della mappa. Gli strumenti in mappa sono:Per cercare la posizione del vostro campo potete digitare l'indirizzo o le coordinategeografichePer aumentare e diminuire le dimensioni.Per andare alla visualizzazione della mappa di default.Per cambiare la mappa di base.Per confrontare diverse mappe.Per bloccare la mappa nella sua vista attuale ed evitare spostamenti durante la navigazione nella piattaforma.Per attivare o disattivare i diversi layers.Per misurare il perimetro e l'area dei poligoni.Per misurare le distanze.Per stampare la vista della mappa."
+      },
+      {
+        "title": "Chat Help desk",
+        "page_start": 12,
+        "text_content": "Cliccando sull'icona della chat, puoi contattare direttamente il nostro help desk che può aiutarti per qualsiasi problema tecnico o agronomico legato all'utilizzo della piattaforma (per ulteriori dettagli, vedi la sezione -HELP DESK- del manuale)."
+      }
+    ]
+  },
+  {
+    "title": "IMPOSTAZIONI ACCOUNT",
+    "page_start": 13,
+    "text_content": "L'icona nell'angolo in alto a destra dello schermo consente di aggiungere informazioni sui tuoi collaboratori, che possono avere accesso all’account per visualizzare e aggiungere informazioni, per modificare la lingua e la password del tuo account.",
+    "subsections": [
+      {
+        "title": "Invita e aggiungi utenti sul tuo account",
+        "page_start": 13,
+        "text_content": "Se vuoi consentire l’accesso ai tuoi collaboratori all’account di Agricolus, basta invitarli. Cliccando sull'icona sopra indicata e poi su -Gestione utenti-, potrai gestire tutti gli utenti autorizzati. Per aggiungere un nuovo utente, devi inserire l'indirizzo e-mail del collaboratore, selezionare il suo ruolo dal menu a tendina e inviare l’invito. Per cancellare un utente esistente, basta cliccare sull'icona del cestino accanto all'utente che volete eliminare."
+      },
+      {
+        "title": "Crea una nuova unità produttiva",
+        "page_start": 13,
+        "text_content": "Prima di creare un nuovo campo, potresti voler creare un elenco di uno o più centri agricoli che verranno utilizzati per raggruppare i tuoi campi. Ad esempio, questa opzione potrebbe essere utile quando si hanno due diversi gruppi di campi che si trovano in due località lontane. Per creare un nuovo centro agricolo, devi cliccare sull'icona in alto a destra, selezionare l'opzione -Gestione azienda- e poi digitare i nomi dei centri agricoli che vuoi aggiungere."
+      },
+      {
+        "title": "Impostazione e-mail periodiche",
+        "page_start": 14,
+        "text_content": "Puoi impostare e-mail periodiche selezionando dall’elenco -Impostazioni-. In alto selezionare la voce -email periodiche- per impostare l’intervallo di tempo, i campi e i dati di interesse. Riceverai quindi, secondo la cadenza temporale selezionata (es. settimanale), report sui tuoi campi."
+      }
+    ]
+  },
+  {
+    "title": "CAMPI",
+    "page_start": 15,
+    "text_content": "",
+    "subsections": [
+      {
+        "title": "Crea un nuovo campo",
+        "page_start": 15,
+        "text_content": "Al primo login,ti verrà chiesto di creare il primo campo.Se invece hai gia inserito almeno un campo nel tuo account, puoi crearne uno nuovo andando alla voce di menu -CAMPI- e poi scegliere tra tre opzioni.Creare un nuovo campo importando la geometria da file shapefile o .kmz, disegnando manualmente il poligono sulla mappa o con il rilevamento automatico.Dopo aver cliccato sull icona, viene chiesto di inserire le seguenti informazioni: Unità produttiva: è possibile selezionare il centro aziendale a cui appartiene il campo selezionando il nome del centro aziendale dal menu a tendina (per inserire i nomi dei centri aziendali, vedere la sezione -IMPOSTAZIONI ACCOUNT- del manuale). Se non avete creato alcun centro aziendale, il nome dell’Unita produttiva verrà impostato automaticamente come -Farm Center-.• Nome del campo.• \u00a0Coltura coltivata.• Data di inizio del lavoro sul campo: devi selezionare la data in cui iniziate a lavorare sul campo (cioé la data in cui fate la prima operazione del nuovo ciclo colturale) e la data che inserite può essere antecedente alla data effettiva di creazione del campo.• \u00a0Uso colturale: per indicare la destinazione del prodotto.Una volta inserite le informazioni richieste, basta premere il pulsante -Avanti- per creare il tuo campo.Lo shapefile deve essere chiuso con zip e deve includere estensioni *.dbf, *.prj, *.shp e *.shx• \u00a0Sia lo shapefile che il file *.kmz devono avere un campo con il nome del campo da creare in modo che il nome possa essere automaticamente associato al nuovo poligono.• Dal menu a tendina è possibile selezionare il poligono che si vuole importare (è possibile aggiungere un poligono alla volta)• \u00a0Cliccate sul tasto -Conferma- per concludere.• \u00a0Prima di procedere con il disegno del poligono in mappa, è utile localizzare il campo sulla mappa. Puoi farlo digitando l'indirizzo otrascinando la mappa per trovare il campo.• \u00a0La mappa di base fornita da ESRI potrebbe non corrispondere allo stato reale della tua azienda agricola,poiché le immagini vengono aggiornate in date variabili. Il suo scopo è solo quello di fornire un riferimento per il disegno dei tuoi campi.• Disegnare il tuo campo cliccando sul primo vertice. Ogni clic corrisponde ad un nuovo vertice e arrivati all’ultimo vertice il doppio click chiude il perimetro.• Spostati in mappa fino ad individuare il tuo appezzamento, dopodiché clicca sul tasto -Rileva campi-.• \u00a0Verranno riconosciuti in automatico gli appezzamenti di quell’area. Pe• Per proseguire fai click sul tuo campo e, se necessario, perfeziona il bordo.Per eliminare i vertici che hai disegnato e ricominciare, cliccare su questa icona. Tutti i vertici creati verranno cancellati e potrai iniziare a disegnare un nuovo campo.Se all'interno del tuo campo ci sono aree non coltivate come edifici, stagni ecc. ti consiglio di escluderle dal campo per migliorare la precisione degli indici calcolati dalle immagini satellitari. Puoi farlo cliccando su questa icona e successivamente disegna il poligono che vuoi escludere selezionando i vertici come la creazione del campo. Una volta creato il campo, potete inserire informazioni aggiuntive cliccando sul pulsante -Inserisci dati aggiuntivi-. I dati più importanti sono:- Resa per ha (attesa)- Data di raccolta (attesa)- \u00a0Dettagli sistema di irrigazione- \u00a0Dettagli campoNel caso in cui il campo venga irrigato, inserire il tipo di impianto di irrigazione e la portata dell'impianto di irrigazione che sarà automaticamente disponibile quando si dovranno aggiungere al campo le informazioni relative alle irrigazioni effettuate.Selezionare la stazione meteorologica da collegare al campo. Per terminare la creazione del campo, cliccare su -Salva-.Il nuovo campo apparirà nella lista disponibile nella sezione -CAMPI-. Vengono mostrati anche l'area, perimetro e resa del campo."
+      },
+      {
+        "title": "Visualizza attributi campi",
+        "page_start": 18,
+        "text_content": "Cliccando su questa icona, puoi scaricare lo shapefile con le geometrie dei campi disegnati.Cliccando su -Legenda- presente in mappa, puoi categorizzare i campi in base alle informazioni aggiuntive che hai inserito al momento della creazione del campo.Ad esempio, la funzione consente di visualizzare quali campi sono irrigati e quali no.Più informazioni vengono fornite durante la creazione di un nuovo campo, più questa funzione sarà utile per avere una rapida panoramica delle caratteristiche di tutti i campi."
+      },
+      {
+        "title": "Eliminare un campo esistente",
+        "page_start": 18,
+        "text_content": "Cliccare sulla voce di menu -CAMPI- a sinistra, selezionare il campo che si desidera cancellare, cliccare sul pulsante -Modifica-, scorrere fino in fondo alla pagina e poi fare doppio clic sul pulsante rosso -Elimina-."
+      },
+      {
+        "title": "Modificare un campo esistente",
+        "page_start": 18,
+        "text_content": "Sia la geometria che i dati aggiuntivi di un campo possono essere modificati andando alla voce del menu -CAMPI-, selezionando il campo che si vuole modificare e poi cliccare sul pulsante -Modifica- che si trova scorrendo in basso in fondo alla pagina.È possibile modificare la geometria semplicemente spostando o cancellando uno o più dei vertici precedentemente disegnati (i vertici sono mostrati nella mappa come punti colorati): -Per spostare un vertice, cliccate con il tasto sinistro del mouse sul vertice (punto blu) e trascinatelo nella sua nuova posizione.-Per creare un nuovo vertice, cliccare con il tasto sinistro del mouse e trascinare nella posizione destra il punto grigio posto al centro di ogni segmento di linea.-\u00a0Per cancellare un vertice, cliccare con il tasto destro del mouse sul vertice (punto blu)-Per chiudere la modalità di modifica della geometria, cliccare con il tasto sinistro del mouse all'esterno del poligono e i vertici (punti blu) scompariranno-\u00a0Per salvare le modifiche, cliccare sul pulsante -Salva- scorrendo in basso in fondo alla pagina.È possibile, inoltre, modificare la geometria del campo, importando direttamente uno shp o kmz con il perimetro del campo."
+      }, 
+      {
+        "title": "Iniziare un nuovo ciclo colturale",
+        "page_start": 19,
+        "text_content": "Quando inizia la nuova stagione, ti consiglio di iniziare un nuovo ciclo colturale andando alla voce di menu -CAMPI-, cliccare sul campo e poi selezionare il pulsante -Inizia nuovo ciclo colturale- che trovate scorrendo in basso in fondo alla pagina.Quando si avvia un nuovo ciclo colturale, i dati precedenti vengono memorizzati nello storico e i modelli previsionali vengono inizializzati per il nuovo ciclo."
+      }
+    ]
+  },
+  {
+    "title": "PIANO COLTURALE",
+    "page_start": 19,
+    "text_content": "Nella sezione -PIANO COLTURALE- si ha una visione schematica della rotazione delle colture nei vari campi. Dal piano colturale c’è la possibilità di selezionare più campi contemporaneamente per iniziare un nuovo ciclo colturale. Oppure se si seleziona la spunta -Seleziona tutto- i campi presenti nella lista sono automaticamente selezionati.Una volta selezionati i campi desiderati, è necessario assegnare una nuova coltura attraverso il menù in alto a destra a tendina.  Questa sarà automaticamente associata a tutti i campi selezionati e partirà dalla data inserita."
+  },
+  {
+    "title": "STATISTICHE",
+    "page_start": 20,
+    "text_content": "Le statistiche aziendali sono state spostate dalla funzionalità -Campi- e trasferite in questa pagina dedicata. Qui trovi tutte le informazioni riguardanti la struttura aziendale per avere una visione globale a colpo d’occhio: ettari utilizzati, ripartizione per tipo di gestione, per titolo di possesso, per acclività, per area irrigua."
+  },
+  {
+    "title": "METEO",
+    "page_start": 23,
+    "text_content": "",
+    "subsections": [
+      {
+      "title": "Stazioni",
+      "page_start": 23,
+      "text_content": "Dalla voce -METEO- si accede al sottomenu -Stazioni- che consente di accedere ai dati della stazione meteorologica e di geolocalizzare la stazione sulla mappa. \u00a0Clicca su questa icona per visualizzare la posizione esatta della stazione meteo in mappa.Cliccando sulla stazione meteorologica, è possibile visualizzare il grafico dei dati meteo e selezionare l'intervallo di tempo di interesse: ieri, oggi, la settimana scorsa, il mese scorso o un intervallo di tempo personalizzato (scelto dall’utente).Le precipitazioni sono espresse in millimetri (mm), ciò significa che con una pioggia di 1 mm, ogni metro quadrato riceve 1 litro di acqua piovana. È anche possibile scaricare i dati meteorologici orari per l'intervallo di tempo selezionato fino ad un massimo di 31 giorni. Questo è possibile solo per le stazioni meteo fisiche. \u00a0Clicca su questa icona per scaricare i dati in formato xls Clicca su questa icona per scaricare i dati in formato .csv. Selezionando il tasto. Si ha la possibilita di associare la singola stazione a più campi in una sola volta. Il click apre una finestra con la lista dei campi già associati (se ce ne sono) e un bottone che permette l aggiunta di un altro campo. Al click viene restituita la lista di tutti i campi non ancora collegati a quella stazione ordinati per distanza (prima i campi più vicini alla stazione).E possibile scollegare un singolo campo attraverso il tasto o scollegare tutti i campi attraverso il tasto -Scollega tutto-."
+      },
+      {
+        "title": "Previsioni Meteo",
+        "page_start": 23,
+        "text_content": "La voce del sottomenu -Previsioni meteo- fornisce informazioni sulle previsioni del tempo specifiche del campo con un intervallo di tempo di 1 ora. Cliccando sul campo, è possibile controllare temperatura, precipitazioni, velocità del vento e umidità relativa per i 7 giorni successivi."
+      }
+    ]
+  },
+  {
+    "title": "SOSTENIBILITA’",
+    "page_start": 24,
+    "text_content": "Cliccando su -Sostenibilità- puoi selezionare le voci:-economica,-ambientale,-lista obiettivi.In ognuna di queste sono presenti gli indicatori che, aseconda dei dati immessi durante la stagione, ti mostrano i dati economici e ambientali e il rispetto degli obiettivi prefissati.",
+    "subsections": [
+      {
+        "title": "Indicatori Economici",
+        "page_start": 24,
+        "text_content": "Indicatori economici: in questa pagina trovi l’indice di resa, espresso in tonnellate, e quello di produzione, espresso in t/ha. Per visualizzare i dati è necessario scegliere la coltura di interesse, usando l’icona -filtra- che si trova a destra della barra di ricerca.Inoltre, attraverso la freccia che si trova sulla destra dell’indicatore, puoi visualizzare il grafico con riportati i dati suddivisi per campo da scaricare attraverso l’apposita icona"
+      },
+      {
+      "title": "Indicatori Ambientali",
+      "page_start": 25,
+      "text_content": "Indicatori ambientali: in questa pagina, senza dover filtrare per coltura, trovi indici riferiti a:-consumo idrico totale e medio; utilizzo di concimi totale e medio per N, P e K; biodiversità aziendale, che contiene diversità colturale espressa attraverso lo Shannon Index, densità e dimensione media degli appezzamenti, percentuale di terreni incolti e densità delle diverse coltivazioni. Inoltre, filtrando per coltura puoi accedere ad ulteriori indici e informazioni come:Efficienza d’uso idrica: quantità media di acqua utilizzata per produrre una tonnellata (m3/t) di prodottoEfficienza d’uso di N, P e K: quantità di N, P e K utilizzata per produrre una tonnellata (kg/t) di prodotto; Numero di trattamenti per campo;Rispetto degli obiettivi fissati attraverso la pagina -lista obiettivi-, se l’obiettivo è rispettato la scritta risulterà colorata di verde, altrimenti sarà rossa."
+      },
+      {
+        "title": "Lista Obiettivi",
+        "page_start": 27,
+        "text_content": "Lista Obiettivi: attraverso questa pagina visualizzi gli obiettivi della tua azienda, che puoi filtrare per coltura oper indicatore.Per aggiungere obiettivi clicca sul tasto, seleziona la coltura e l’indicatore d’interesse e digita il valore limite; allo stesso modo puoi modificare obiettivi già esistenti, selezionando la coltura e l‘indicatore che vuoi cambiare."
+      }
+    ]
+  },
+  {
+    "title": "IMMAGINI SATELLITARI",
+    "page_start": 28,
+    "text_content": "",
+    "subsections": [
+      {
+        "title": "Sentinel 2",
+        "page_start": 28,
+        "text_content": "Le immagini fornite da Sentinel2 hanno una risoluzione spaziale di 10m, il che significa che ogni pixel rappresenta un'area quadrata di 10mx10m. Il satellite acquisisce le immagini ogni 3-5 giorni, a seconda dell'ubicazione del campo. Sulla piattaforma sono visibili solo le immagini acquisite a partire dalla data di creazione del campo. A partire da quella data, sono indicate le immagini disponibili, quelle con alta nuvolosità e quelle soggette ad errore di calcolo.Cliccando sulla voce -IMMAGINI SATELLITARI- e poi su -Sentinel2-, è possibile visualizzare immediatamente sulla mappa l’indice NDVI della vista zoom presente. In alto è possibile scegliere la data e l’indice da visualizzare. Per ogni campo viene suggerito il -cambia data- se l’indice di vegetazione non è disponibile per quella selezionata.La legenda in mappa permette il ‘Ricampionamento’ e la visualizzazione del ‘Dato normalizzato’.Sono disponibili due viste:Clicca su questa icona (vista elenco) per vedere l'elenco dei vostri campi e una sintesi dellestatistiche NDVI per ogni campo (minimo, massimo, media calcolata su tutto il campo all'ultima data di acquisizione).Clicca su questa icona (vista aggregata) per vedere le statistiche di tutti gli indici (minimo, massimo, media calcolata su tutti i campi inclusi nel gruppo all'ultima data di acquisizione).Degli indici che si stanno visualizzando per raggruppamento, è possibile scaricare:-Il file Excel, in questo caso si aprirà una scheda in cui selezionare l’intervallo di tempo desiderato, l’unità produttiva e la coltura, uno o più campi e indici di vegetazione; di cui scaricare il valore medio e anche il valore minimo e massimo selezionando la casella apposita.-Il file Csv, seguendo le stesse modalità. Cliccando sul campo di interesse nella vista a elenco o su uno degli indici nella vista aggregata, è possibile visualizzare solo i dati relativi a quel determinato campo. Per ogni indice, nel pannello di visualizzazione dei dati si vedono i valori minimi, massimi e medi calcolati nel campo esaminato. Per modificare la data, utilizzare il cursore, nella linea temporale in alto.Scorrendo verso il basso, si può vedere lo storico degli indici di vegetazione. Se vuoi nascondere un indice specifico dal grafico, basta cliccare sulla voce della legenda. Cliccando di nuovo sulla voce della legenda nascosta, la si rende nuovamente visibile.Nel grafico con lo storico degli indici di vegetazione c’è la possibilità di effettuare uno zoom di un determinato periodo temporale. Tenendo premuto il tasto sinistro del mouse cliccare sulla data di partenza e trascinare il mouse verso la data di fine rilasciando il tasto sinistro del mouse quando raggiunta la data desiderata.Per tornare al grafico completo cliccare sul tasto -Reset zoom-.Cliccando su questa icona, puoi scaricare il grafico in formato JPEG o PNG.Degli indici che si stanno visualizzando del singolo campo, è possibile scaricare:-Il file GeoTIFF-Il file Excel, in questo caso si aprirà una scheda in cui selezionare l’intervallo di tempo desiderato, uno o più indici di cui scaricare il valore medio e anche il valore minimo e massimo selezionando la casella apposita.-Il file Csv, seguendo le stesse modalità."
+      },
+      {
+        "title": "Descrizione degli indici",
+        "page_start": 29,
+        "text_content": "Le immagini fornite da Sentinel2 hanno una risoluzione spaziale di 10m, il che significa che ogni pixel rappresenta un'area quadrata di 10mx10m. Il satellite acquisisce le immagini ogni 3-5 giorni, a seconda dell'ubicazione del campo. Sulla piattaforma sono visibili solo le immagini acquisite a partire dalla data di creazione del campo. A partire da quella data, sono indicate le immagini disponibili, quelle con alta nuvolosità e quelle soggette ad errore di calcolo.Cliccando sulla voce -IMMAGINI SATELLITARI- e poi su -Sentinel2-, è possibile visualizzare immediatamente sulla mappa l’indice NDVI della vista zoom presente. In alto è possibile scegliere la data e l’indice da visualizzare. Per ogni campo viene suggerito il -cambia data- se l’indice di vegetazione non è disponibile per quella selezionata.Indici di vigoria:NDVI (Normalized Difference Vegetation Index) permette di valutare lo stato di salute della vegetazione analizzando la riflettanza della vegetazione nelle bande del rosso e del NIR. Valori vicini allo zero indicano assenza di vegetazione o vegetazione molto stressata, mentre valori vicini a 1 indicano vegetazione in condizioni ottimali. L'indice tende a saturare con vegetazione particolarmente rigogliosa (LAI>2).GNDVI (Green-NDVI), come l’NDVI, fornisce un'indicazione dello stato di salute della vegetazione, ma riduce l’effetto di saturazione con vegetazione rigogliosa. SAVI (Soil-Adjusted Vegetation Index) permette di valutare le condizioni della vegetazione nelle prime fasi di sviluppo, poiché applica una correzione all’effetto del suolo nudo. E 'anche adatto a confrontare i campi con terreni molto diversi.LAI (Leaf Area Index) è definito come la superficie fogliare proiettata su un'unità di terreno (m2/m2). L'indice è ottimale nel caso di colture erbacee, mentre è meno preciso sulle piante arboree (filari di vite, olivi, ecc.). Fornisce infatti un'indicazione dello sviluppo delle colture in termini di biomassa e può essere utilizzato come riferimento per valutare quale degli altri indici è più affidabile in quanto la fase di sviluppo.Indice di clorofilla:— TCARI/OSAVI (Transformed Chlorophyll Absorption Ratio Index/Optimized Soil-Adjusted Vegetation Index) permette di identificare eventuali aree clorotiche all'interno del campo. Valori elevati dell'indice indicano la presenza di clorosi, mentre valori bassi indicano un alto contenuto di clorofilla.Indici di stress idrico:NDMI (Normalized Difference Moisture Index) valuta il contenuto idrico della vegetazione, è quindi affidabile solo con vegetazione sviluppata (LAI>1) e non con terreno nudo. Valori elevati dell'indice indicano piante ben irrigate. Con una bassa copertura vegetale, l'NDMI è correlato con l'NDVI in quanto è influenzato dal vigore della coltura.NMDI (Normalized Multiband Drought Index): può essere utilizzato per valutare il contenuto di acqua nel suolo, in caso di suolo nudo, un valore alto dell'indice indica un suolo secco. In presenza di vegetazione, un valore di indice elevato indica che la pianta non è sotto stress idrico."
+      },
+      {
+        "title": "Interpretazione dei valori",
+        "page_start": 30,
+        "text_content": "Indici di Vigoria (NDVI, GNDVI, SAVI):Questi indici valutano lo stato di salute e la copertura vegetale del campo.Valori da 0.1 a 0.2 indicano copertura vegetale quasi assente.Valori crescenti fino a 0.9-1.0 indicano una copertura vegetale via via più elevata, fino alla copertura totale con vigore molto elevato.Il SAVI è particolarmente utile nelle prime fasi di sviluppo delle colture perché corregge l'effetto del suolo nudo.LAI (Leaf Area Index):Misura la superficie fogliare per unità di terreno.0 significa terreno nudo.3 indica terreno completamente coperto da vegetazione.Indice di Clorofilla (TCARI/OSAVI):Permette di identificare aree clorotiche (carenza di clorofilla).Valori vicini a 0 indicano vegetazione con alto contenuto di clorofilla.Valori vicini a 1 indicano terreno nudo o vegetazione clorotica.Indici di Stress Idrico (NDMI, NMDI):Valutano il contenuto idrico della vegetazione o del suolo.NDMI:Da -1.0 a -0.8: Terreno nudo.Valori crescenti fino a 0.8-1.0: Indicano vegetazione con sempre meno stress idrico, fino a copertura totale e assenza di stress.NMDI:Con suolo nudo (LAI < 0.5): 1 = suolo secco, 0 = suolo umido.Con copertura vegetale (LAI > 1): Valori <0.5 indicano alto stress idrico, mentre valori >0.7 indicano stress idrico basso o assente."
+      },
+      {
+        "title": "Suggerimenti",
+        "page_start": 31,
+        "text_content": ""
+      }
+    ]
+  },
+  {
+    "title": "MODELLI PREVISIONALI ",
+    "page_start": 32,
+    "text_content": "Cliccando sulla voce -MODELLI PREVISIONALI- e selezionando il campo di interesse, è possibile visualizzare i diversi modelli previsionali implementati nella piattaforma. I modelli utilizzano i dati meteorologici provenienti da stazioni meteo; pertanto, l'accuratezza di tali dati è di fondamentale importanza per avere stime affidabili.Nell'angolo in alto a destra è presente l’icona di -ricalcola- che aggiorna gli output dei modelli sulla base degli ultimi dati inseriti (ad esempio osservazioni fenologiche, trattamenti antiparassitari, irrigazioni). Si consiglia di ricalcolare i modelli ogni volta che si aggiungono nuove informazioni.Ogni modello ha un colore diverso nel pannello di visualizzazione dei dati in base al livello di allarme: verde (basso), arancione (medio), rosso (alto). I modelli di colore blu forniscono solo informazioni senza avvisi.Cliccando su ogni modello, è possibile visualizzare informazioni e tabelle dettagliatePer ogni modello si può aggiungere un trattamento e essere riportati direttamente nella pagina delle operazioni colturali per il relativo campo attraverso il tasto -Aggiungi Trattamento- ",
+    "subsections": [
+      {
+        "title": "Fenologia",
+        "page_start": 32,
+        "text_content": "Lo sviluppo della vegetazione dipende dalla temperatura, poiché ogni coltura richiede una specifica quantità di calore per passare ad una nuova fase di sviluppo.Il modello fenologico stima lo sviluppo per 130 colture differenti in base ai gradi-giorni (GDD) rilevati, cioè la misura del calore che la pianta ha accumulato fino a quel momento e alle soglie termiche specifiche per ogni coltura.Gli stadi di sviluppo fenologico di tutte le colture tranne il tabacco sono espressi utilizzando la scala BBCH, che è un sistema numerico per la codifica uniforme degli stadi fenologici.Per il tabacco, il modello fenologico stima i principali parametri di interesse che sono: Numero di foglie,Percentuale di sviluppo in altezza, Percentuale di fioritura La stima del modello viene integrata dalle osservazioni inserite nella sezione -SMART SCOUTING- del menu principale."
+      },
+      {
+        "title": "Irrigazione",
+        "page_start": 33,
+        "text_content": "Il modello di irrigazione si basa sul calcolo del bilancio idrico del suolo e utilizza i dati meteorologici orari, le analisi del suolo inserite, la fase fenologica della coltura e le dosi irrigue apportate che vengono inserite nella sezione -LAVORO-.Gli output del modello sono:-Il deficit idrico che esprime la quantità d'acqua (mm) necessaria per riportare il terreno alla capacità del campo, che è la quantità d'acqua trattenuta nel terreno dopo che l'acqua in eccesso è stata drenata per gravità.- La soglia critica che esprime la quantità d'acqua (mm) al di sotto della quale inizia a verificarsi lo stress idrico in quel particolare stadio fenologico.- La soglia ottimale che esprime la quantità d'acqua (mm) da ripristinare nel terreno per evitare lo stress idrico. Il modello suggerisce di irrigare ogni volta che il deficit idrico scende al di sotto della soglia critica e la quantità suggerita corrisponde ai millimetri necessari per riportare il terreno alla soglia ottimale."
+      },
+      {
+        "title": "Fertilizzazione",
+        "page_start": 33,
+        "text_content": "Il modello della fertilizzazione utilizza diversi set di dati per calcolare il fabbisogno totale di azoto, fosforo e potassio (Kg/ha) richiesto dal campo selezionato in tutto il ciclo produttivo della coltura. Il modello lavora con 3 set di dati:-parametri coltura-specifici;-dati ambientali (meteo e suolo);-dati colturali (e.g. date di semina/raccolta, concimazioni, uso colturale)Il grafico rappresenta la situazione di campo per i tre elementi confrontando le quantità distribuite (linea continua) con le quantità totali necessarie per la coltura (linea tratteggiata). Nella tabella viene visualizzato il dettaglio del bilancio dove si possono consultare le voci che contribuiscono ad arricchire (freccia verde) o ad impoverire (freccia rossa) il terreno dagli elementi nutritivi.Se il modello non funzionasse potrebbe mancare qualche dato di input necessario: è necessario controllare di aver inserito correttamente data prevista di raccolta e - nelle colture erbacee - anche la data di semina.Il modello attualmente è disponibile solo per alcune colture. Se la coltura di proprio interesse non è tra queste è gradita una segnalazione al nostro supporto. Lavoriamo costantemente per migliorarci e faremo del nostro meglio per aggiungerla."
+      },
+      {
+        "title": "Modelli specifici per coltura",
+        "page_start": 33,
+        "text_content": "Per vite,tabacco,pomodoro,cereali autunno vernini e mais oltre ai modelli irrigazione,fertilizzazione sono disponibli in agricolus modelli specifici per colture "
+      },
+      {
+        "title": "MODELLI PREVISIONALI SPECIFICI DELLA VITE",
+        "page_start": 33,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "VITE:Modelli Previsionali di Indici di maturazione",
+            "page_start": 33,
+            "text_content": "Vengono fornite informazioni sullo stato di maturazione della vite, in particolare:-Indice Winkler:un parametro bioclimatico di maturazione basato sulle temperature medie giornaliere calcolate da aprile a ottobre.-Indice Huglin: parametro bioclimatico di maturazione basato sulle temperature medie e massime giornaliere e sul fotoperiodo calcolato da aprile a settembre.Rispetto all'indice Winkler, l'indice Huglin prende in considerazione un periodo di tempo più breve, che inizia dal 1° aprile al 30 settembre, dando maggiore importanza alle temperature massime giornaliere registrate e considerando anche la durata della giornata attraverso un coefficiente specifico basato sulla latitudine del vigneto."
+          },
+          {
+            "title": "VITE:Modelli Previsionali di Parassiti Specifici per la Vite",
+            "page_start": 34,
+            "text_content": "Tignola della vite (Lobesia botrana): Il modello calcola il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto in base alla rilevazione delle temperature medie orarie e alle soglie termiche specifiche dell’insetto. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione. I livelli di allarme sono definiti come moderati all'inizio dello stadio ovarico e alti all'inizio dello stadio adulto."
+          },
+          {
+            "title": "VITE:Modelli Previsionali di Patogeni o Malattie Specifiche per la Vite",
+            "page_start": 34,
+            "text_content": "-Peronospora (Plasmopara viticola): Il modello calcola la comparsa e l'evoluzione delle infezioni primarie e secondarie sulla base del rilevamento delle temperature medie giornaliere, delle precipitazioni cumulative e del livello di umidità delle foglie. Ogni infezione rappresenta una popolazione del fungo (muffa) che penetra nelle foglie e inizia un ciclo di infezione (0%). Il fungo si sviluppa e termina il ciclo (100%), a seconda dei fattori ambientali considerati nel modello, con il rilascio di sporangi dalle aperture stomatiche che producono la caratteristica muffa. Per infezione primaria si intende un'infezione derivata da piogge infettive. L’infezione secondaria invece deriva dalla diffusione del fungo in seguito all’infezione primaria. A seconda del livello di rischio, il modello suggerisce il tipo di trattamento da effettuare-Malattia della muffa grigia (Botrytis cinerea): Il modello stima un indice di rischio qualitativo di infezione basato sulla rilevazione delle temperature medie orarie e del livello di umidità delle foglie. Il modello è calcolato dalla germogliazione fino alla completa maturazione dei frutti.-Oidio della vite (Uncinula necator): Il modello stima la probabilità di infezione espressa in percentuale sulla base della rilevazione delle temperature minime e massime orarie. A seconda del livello di rischio, il modello suggerisce il tipo di trattamento da applicare e l'intervallo di tempo tra un trattamento e l'altro."
+          },
+          {
+            "title": "VITE:Modelli Previsionali di Allerta Gelate Specifici per la Vite",
+            "page_start": 34,
+            "text_content": "Il modello utilizza una distribuzione ambientale di dati previsionali orari per valutare e classificare il rischio di gelo. I tipi di allarmi sono:i.Vite non sensibile: la pianta, in questa fase, non è sensibile ai danni da gelate;ii.Nessun rischio: assenza di condizioni ambientali che promuovono un fenomeno di gelata;iii.Rischio brina: possibile evento brina – freddo radiativo;iv.Rischio brina (se presente cielo sereno): probabile evento ‘brina’ se il cielo è sereno nelle ore prese inesame – freddo radiativo;v.Rischio gelata nera (se presente cielo sereno): probabile evento ‘gelata nera’ (gelata con umidità bassa)se il cielo è sereno nelle ore prese in esame – freddo radiativo;vi.Gelata per avvezione: presenza fronte di aria fredda in arrivo – freddo avvettivo; vii.Gelata mista: gelata con caratteristiche miste tra avvezione e brina – freddo radiativo/avvettivo."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI OLIVO",
+        "page_start": 35,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "MODELLI PREVISIONALI OLIVO Parassiti",
+            "page_start": 35,
+            "text_content": "-Mortalità della mosca delle olive (Bactrocera oleae): Il modello stima la percentuale di mortalità giovanile giornaliera e di mortalità giovanile settimanale sulla base della rilevazione delle temperature minime e massime orarie. Per mortalità giovanile si intende la mortalità degli stadi che precedono lo stadio dell'adulto che è quello delle uova, delle larve e delle pupe. I livelli di allerta rappresentano il rischio di infestazione basato sulla capacità delle temperature di regolare la popolazione della mosca dell'olivo.-Sviluppo della mosca delle olive (Bactrocera oleae): Il modello stima il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto in base alla temperatura media oraria e alle soglie termiche dell’insetto. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione. I livelli di allarme sono definiti come moderati all'inizio dello stadio dell'uovo e alti all'inizio della fase adulta."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI TABACCO",
+        "page_start": 35,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "MODELLI PREVISIONALI TABACCO Parassiti",
+            "page_start": 35,
+            "text_content": "Nottua Gialla (Helicoverpa armigera): Il modello stima il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto, in base ai gradi diurni, calcolati con le temperature medie orarie e le soglie termiche dell'insetto. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione. I livelli di allarme sono definiti come moderati all'inizio dello stadio ovarico e alti all'inizio dello stadio adulto."
+          },
+          {
+            "title": "MODELLI PREVISIONALI TABACCO Malattie",
+            "page_start": 35,
+            "text_content": "Peronospora del tabacco (Peronospora tabacina): Il modello calcola le infezioni primarie e secondarie e l'incidenza della malattia, in base alle temperature medie orarie, alle precipitazioni cumulate e all'umidità delle foglie. Il calcolo è diviso in due sottomodelli:i)\tsimperota1: calcola il livello di sviluppo dell'infezione primaria (prima comparsa della malattia).ii)\tsimperota3: calcola il livello di sviluppo dell'infezione secondaria (riapparizione della malattia) dopo un trattamento.La pressione della malattia indica la gravità dell'infezione."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI MAIS",
+        "page_start": 35,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "MODELLI PREVISIONALI MAIS Parassiti",
+            "page_start": 35,
+            "text_content": "Diabrotica del mais (Diabrotica virgifera): Il modello stima il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto in base ai gradi giorno, calcolati utilizzando le temperature medie orarie e le soglie termiche dell'insetto in ogni stadio. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione a cui si fa riferimento. I livelli di allarme sono definiti come moderati all'inizio dello stadio dell'uovo e ad alto rischio all'inizio della fase adulta.Nottua gialla (Helicoverpa armigera): Il modello stima il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto in base ai gradi giorno, calcolati con le temperature medie orarie e le soglie termiche dell'insetto. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione. I livelli di allarme sono definiti come moderati all'inizio dello stadio ovarico e alti all'inizio dello stadio adulto.• \u00a0Ostrinia del mais (Ostrinia nubilialis): Il modello utilizza un sistema di calcolo dei gradi giorno e le soglie termiche dell’insetto per stimare il tempo di comparsa dei vari stadi di sviluppo. I livelli di allarme sono definiti come moderati all'inizio dello stadio delle uova e alti all'inizio della fase adulta.•Nottua dei seminati (Agrotis ipsilon): Il modello utilizza un sistema di calcolo dei gradi-giorno basato sulle soglie termiche dell'insetto per stimare il momento di comparsa dei vari stadi di sviluppo. I livelli di allerta sono definiti come moderati all'inizio della comparsa delle pupe e delle larve di 6° età e alti all'inizio della fase adulta."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI CEREALI AUTUNNO-VERNINI",
+        "page_start": 36,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": " MODELLI PREVISIONALI CEREALI AUTUNNO-VERNIN Malattie",
+            "page_start": 36,
+            "text_content": "Fusariosi (Fusarium spp.): Il modello usa un sistema di calcolo basato sulla rilevazione oraria di temperature e umidità per stimare la probabilità di infezione giornaliera (0%).Septoriosi (Septoria Sacc.): Il modello usa un sistema di calcolo basato sulla rilevazione oraria di temperature, precipitazioni e umidità per stimare la probabilità di infezione giornaliera.Ruggine Gialla (Puccinia striiformis): Il modello della Ruggine Gialla usa un sistema di calcolo basato sulla rilevazione di temperatura media, precipitazioni e umidità per stimare la probabilità di infezione giornaliera, considerando il periodo di latenza."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI POMODORO",
+        "page_start": 36,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "MODELLI PREVISIONALI POMODORO Malattie",
+            "page_start": 36,
+            "text_content": "Peronospora del pomodoro (Phytophthora infestans): Il modello usa un sistema di calcolo basato sulla rilevazione oraria di temperatura, umidità e precipitazioni per stimare l’indice di rischio. Il rischio viene letto con una soglia di allarme al valore di 550 e ad una soglia di allerta di 700 ma potrebbe variare in funzione della suscettibilità della cultivar in campo."
+          },
+          {
+            "title": "MODELLI PREVISIONALI POMODORO Parassiti",
+            "page_start": 36,
+            "text_content": "Tuta absoluta: Il modello usa un sistema di calcolo dei gradi-giorno basato sulle soglie termiche dell'insetto per stimare il momento di comparsa dei vari stadi di sviluppo e delle varie generazioni che l’insetto compie.Nottua Gialla (Helicoverpa armigera): Il modello stima il periodo di comparsa e la ripartizione dei vari stadi di sviluppo dell’insetto, in base ai gradi diurni, calcolati con le temperature medie orarie e le soglie termiche dell'insetto. Ogni giorno il modello restituisce la distribuzione percentuale della popolazione tra i vari stadi e la generazione. I livelli di allarme sono definiti come moderati all'inizio dello stadio ovarico e alti all'inizio dello stadio adulto."
+          }
+        ]
+      },
+      {
+        "title": "MODELLI PREVISIONALI AGRUMI",
+        "page_start": 36,
+        "text_content": "",
+        "subsections": [
+          {
+            "title": "Malattie",
+            "page_start": 36,
+            "text_content": "Antracnosi: Basato su dati metereologici correlati allo sviluppo del fungo, fornisce previsioni sull'andamento dell'Antracnosi, consentendo strategie di intervento tempestive per mitigare i danni alle piante coltivate."
+          },
+          {
+            "title": "Parassiti",
+            "page_start": 37,
+            "text_content": "Mosca della frutta: Utilizzando il calcolo dei Gradi Giorno Accumulati (GDD), determina gli stadi di sviluppo dell'insetto, consentendo interventi mirati per il controllo e la gestione della mosca della frutta, prevenendo danni alle colture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "MAPPE DI PRESCRIZIONE",
+    "page_start": 38,
+    "text_content": "Le mappe di prescrizione supportano l'ottimizzazione della dose di fertilizzante associando la quantità di fertilizzante più adatta ad ogni area del campo.Per creare una mappa delle prescrizioni clicca sulla voce -MAPPE DI PRESCRIZIONE- e inserisci le seguenti informazioni:-Nome del campo: scegliere il campo dal menu a tendina-Indice delle immagini: selezionare l'indice delle immagini che si desidera utilizzare per la creazione delle zone di gestione e la data di acquisizione dell'immagine-Nome del fertilizzante: digitare il nome del fertilizzante-Nutriente %: inserire la percentuale del nutriente del fertilizzante-Numero di zone: digitate il numero di zone di gestione in cui vuoi suddividere il campo. Il numero massimo di zone è suggerito dalla piattaforma in base alla variabilità dell'indice sul campo e non si può superare il numero massimo di zone suggerito dalla piattaforma.-Modalità di calcolo: selezionare dal menu a tendina una delle seguenti modalità di calcolo:Minimo - massimo: le zone con basso vigore sono meno fertilizzate. Bisogna inserire la quantità minima e massima di fertilizzante che si vuole distribuire nelle diverse zone e l'algoritmo la divide linearmente nelle diverse zone.•\tMedia - diretto: le aree con basso vigore sono più concimate. È necessario inserire la dose media e la variazione percentuale desiderata rispetto alla media. Questo metodo garantisce che la dose media di fertilizzante indicata dall'utente non venga modificata.Media - Inverso: le aree ad alto vigore sono più concimate. È necessario inserire la dose media e la variazione percentuale massima desiderata rispetto alla media. Questo metodo garantisce che la dose media di fertilizzante indicata dall'utente venga mantenuta invariata. La scheda di prescrizione può essere esportata in formato shapefile cliccando sul pulsante -Scarica- in fondo alla pagina. La tabella degli attributi conterrà sia la quantità di azoto (kg/ha) che la quantità di fertilizzante (kg/ha) da distribuire in ogni zona omogenea. Una volta inserite tutte le informazioni, si può cliccare sul pulsante -Salva- per salvare i dati. Per ogni registrazione è possibile eseguire queste azioni: Ingrandire la carta delle prescrizioni, Cancellare la scheda di prescrizione"
+  },
+  {
+    "title": "ANALISI DEL SUOLO",
+    "page_start": 39,
+    "text_content": "Nella sezione -ANALISI DEL SUOLO- è possibile visualizzare e inserire i dati relativi ai campioni di terreno.Tutti i campioni salvati sono elencati in ordine alfabetico in base all'ID del campione.Cliccando su -Legenda- presente in mappa, puoi categorizzare i campi in base alle informazioni aggiuntive che hai inserito sulle analisi del suolo.Ad esempio, la funzione consente di visualizzare i punti di campionamento sulla base dei valori di tessitura, Ph, sostanza organica, ecc.Per aggiungere un nuovo campione è necessario cliccare sull'icona, selezionare il campo dal menu a tendina e selezionare sulla mappa il punto in cui il campione è stato raccolto. Una volta selezionato il punto, è possibile aggiungere le seguenti informazioni:-Id del campione-Percentuale di e, argilla e limo (%)-pH-Sostanza organica del suolo (%)-Azoto totale (g/kg)-Fosforo assimilabile (mg/kg)-Carbonio organico totale (g/kg)-Rapporto C/N-Potassio intercambiabile (mmol/dm3)-Capacità di scambio cationico (Meq/100g)-Densità di massa (g/cm3)-Scheletro (%)-Profondità (cm)-NotePer salvare i dati, cliccare su -Salva-.Per ogni registrazione è possibile eseguire queste azioni:Ingrandire il punto di campionamento,Cancellare i dati del campione.È anche possibile scaricare una tabella con tutte le informazioni inserite. Clicca questa icona e scegli in quale formato scaricare i dati:Excel,Csv"
+  },
+  {
+    "title": "SEGNALAZIONI",
+    "page_start": 40,
+    "text_content": "La voce -SEGNALAZIONI- comprende tutti i diversi problemi osservati in campo di cui si vuol tenere traccia. Per aggiungere una nuova segnalazione è necessario cliccare su questa icona, selezionare il campo dal menu a tendina e selezionare sulla mappa il punto in cui il problema è stato osservato (può essere sia all'interno che all'esterno dei confini del campo). Una volta individuato il punto, è possibile aggiungere le seguenti informazioni:Tipo: è possibile indicare la problematica dal menu a tendina o selezionare -altro- se il problema osservato non è nella lista.Tra le altre caratteristiche:-Interruttore -risolto-: per classificare il problema come già risolto,Segnalazione non risolta: sarà visualizzata con il colore rosso,Segnalazione risolta: sarà visualizzata con il colore verde Crea attività collegata-: per assegnare il compito ad un collaboratore (in questo caso ti viene chiesto di inserire le informazioni legate all’attività da svolgere nella sezione -LAVORO- Note: per inserire informazioni aggiuntivePer ogni registrazione, è possibile eseguire queste azioni:È anche possibile scaricare una tabella con tutte le informazioni inserite. Clicca questa icona e scegli in quale formato scaricare i dati:-Excel-Csv"
+  },
+  {
+    "title": "RILEVAZIONI IN CAMPO",
+    "page_start": 40,
+    "text_content": "La sezione -RILEVAZIONI IN CAMPO- permette di inserire dati geolocalizzati su trappole e catture, parassiti e malattie, danni alle colture e fenologia. Vi suggeriamo di utilizzare l'App per aggiungere le osservazioni direttamente sul campo.",
+    "subsections": [
+      {
+        "title": "Trappole e catture",
+        "page_start": 40,
+         "text_content": "I dati relativi alle trappole e alle catture sono raggruppati in due elenchi: Sia nella lista delle trappole che in quella delle catture è disponibile la seguente opzione: Clicca questa icona e scegli in quale formato scaricare i dati:-Excel-CsvPer aggiungere una nuova trappola cliccare su questa icona e poi: aggiungere la data di installazione della trappola e il campo, selezionare il punto sulla mappa dove si trova la trappola, aggiungere i dettagli della trappola e le specie, e infine cliccare sul pulsante -Salva-.Per ciascuna delle registrazioni, è possibile eseguire queste azioni:Ingrandire la posizione della trappolaVisualizza il grafico delle cattureAggiungere una nuova catturaCancellare la trappolaQuando si aggiunge una nuova cattura, bisogna inserire la data di cattura e il numero di insetti catturati. Da questa finestra potete anche aggiungere direttamente le osservazioni fenologiche cliccando sul pulsante -Osservazione fenologica- e selezionando lo stadio fenologico. Questa osservazione verrà aggiunta alla lista delle osservazioni fenologiche disponibile nella specifica sezione -Fenologia- di -RILEVAZIONI IN CAMPO-.Da questa finestra è possibile anche assegnare un compito ad un collaboratore (in questo caso ti viene chiesto di inserire le informazioni legate all’attività da svolgere nella sezione -LAVORO-). Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-.Per ogni registrazione, è possibile eseguire queste azioni:Ingrandire la posizione dell'osservazione di parassiti/malattie,Cancellare l'osservazione di parassiti/malattie"
+      },
+      {
+        "title": "Parassiti e Malattie",
+        "page_start": 41,
+        "text_content": "I dati relativi a parassiti e malattie possono essere filtrati per tipologia o intensità utilizzando i comandi in alto nella pagina.Per aggiungere una nuova osservazione cliccare su questa icona e poi aggiungere la data dell'osservazione, selezionare il campo, selezionare il punto sulla mappa in cui si è osservata l'insetto/malattia, selezionare l'insetto o la malattia dal menu a tendina o aggiungerne manualmente un nuovo cliccando sul pulsante -Aggiungi un parassita o una malattia mancante per questa coltura-, selezionare -Assente/Presente- dal pulsante e infine aggiungere l'intensità del danno usando il cursore.Da questa finestra, è anche possibile creare una segnalazione e/o creare un’attività assegnando un compito a un collaboratore (per ulteriori dettagli vedere le sezioni -SEGNALAZIONI- e -LAVORO-) o aggiungere note.Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-,"
+      },
+      {
+        "title": "Danni alla coltura",
+        "page_start": 42,
+        "text_content": "I dati relativi ai danni abiotici possono essere filtrati per tipologia o intensità utilizzando i comandi in alto nella pagina.Per aggiungere una nuova osservazione bisogna cliccare su questa icona e poi: i) aggiungere la data dell'osservazione, ii) selezionare il campo, iii) selezionare il punto sulla mappa dove si è osservato il danno abiotico, iv) aggiungere l'intensità usando il cursore, e v) scegliere il tipo di danno dal menu a tendina.Da questa finestra si può anche creare un problema e/o assegnare un compito ad un collaboratore (per ulteriori dettagli vedere le sezioni -PROBLEMI- e -LAVORO-) o aggiungere note.Una volta inserite tutte le informazioni, cliccate sul pulsante -Salva-. Per ciascuna delle registrazioni, puoi eseguire queste azioni:Nella vista dell'elenco dei danni alla coltura sono disponibili anche le seguenti opzioni:Clicca questa icona e scegli in quale formato scaricare i dati:-Excel-Csv"
+      },
+      {
+        "title": "Fenologia",
+        "page_start": 42,
+        "text_content": "Per aggiungere una nuova osservazione fenologica è necessario cliccare su questa icona e poi: aggiungere la data dell'osservazione, selezionare il campo, selezionare il punto sulla mappa dove si è osservata la fase di sviluppo e infine scegliere la fase di sviluppo dal menu a tendina.Da questa finestra, è anche possibile assegnare un’attività ad un collaboratore (per ulteriori dettagli vedere la sezione -LAVORO-) o aggiungere note.Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. "
+      },
+      {
+        "title": "Rilevazioni specifiche per coltura",
+        "page_start": 43,
+        "text_content": ""
+      },
+      {
+        "title": "VITE",
+        "page_start": 43,
+         "text_content": "I dati relativi ai parametri qualitativi possono essere visualizzati in modo puntuale o per raggruppamento utilizzando le icone in alto a sinistra nella pagina.aPer visualizzare i dati puntuali, in particolare le analisi registrate dall’utente.Per visualizzare i dati raggruppati per campo. Selezionando questa icona e poi l’icona più (riportata in basso), l’utente può selezionare l’intervallo di tempo desiderato e mediare i dati registrati in tale intervallo. In questo modo viene dato un valore relativo all’alcol potenziale e l’indice di maturazione per l’intero appezzamento.Per aggiungere una nuova analisi qualitativa bisogna cliccare su questa icona e poi: i) aggiungere\u00a0 \tla data dell'osservazione, ii) selezionare il campo, iii) selezionare il punto sulla mappa dove si èsvolta l’analisi, iv) inserire i dati relativi a pH, Acidità totale, Gradi Brix/Babo/Baumè.Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. I dati relativi ai parametri quantitativi possono essere visualizzati in modo puntuale o per raggruppamento utilizzando le icone in alto a sinistra nella pagina.aPer visualizzare i dati puntuali, in particolare le analisi quantitative registrate dall’utente.Per visualizzare i dati raggruppati per campo. Selezionando questa icona e poi l’icona più (riportata in basso), l’utente può selezionare l’intervallo di tempo desiderato e mediare i dati registrati in taleaintervallo. In questo modo viene data un’indicazione circa la necessità di effettuare il diradamento oppure no, se è stata inserita nel campo la resa attesa.Per aggiungere una nuova analisi qualitativa bisogna cliccare su questa icona e poi: i) aggiungere la\u00a0 \tdata dell'osservazione, ii) selezionare il campo, iii) selezionare il punto sulla mappa dove si è svoltal’analisi, iv) inserire i dati relativi a numero grappoli e peso."
+      },
+      {
+        "title": "OLIVO",
+        "page_start": 44,
+        "text_content": "I dati relativi al campionamento fanno riferimento a luoghi di campionamento e registrazione delle analisi svolte sulle drupe.a\tPer visualizzare i luoghi di campionamento individuati e registrati su ogni appezzamento. Per creareun nuovo luogo di campionamento.aPer ogni luogo di campionamento, selezionare questa icona per registrare il campionamento. visualizzare i dati raggruppati per campo. Inserire dati relativi a uova, larve e pupe. Per valutare l’infestazione attiva, passiva e dannosa.a\tPer aggiungere un nuovo luogo di campionamento. Indicare il punto in mappa e scrivere il nome.Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. Per ogni registrazione, puoi eseguire queste azioni: \tIngrandire la posizione del rilievo \tRegistrare un nuovo campionamento \tCancellare l'analisi Nella vista dell'elenco dei campionamenti è disponibile la seguente opzione: Clicca questa icona e scegli in quale formato scaricare i dati:-Excel-Csv"
+      },
+      {
+        "title": "AGRUMI",
+        "page_start": 45,
+        "text_content": "Monitoraggio Qualità:I dati relativi ai parametri qualitativi possono essere visualizzati in modo puntuale o per raggruppamento utilizzando le icone in alto a sinistra nella pagina.Per visualizzare i dati puntuali, in particolare le analisi registrate dall’utente.Per visualizzare i dati raggruppati per campo. Selezionando questa icona e poi l’icona più (riportata in basso), l’utente può selezionare l’intervallo di tempo desiderato e mediare i dati registrati in tale intervallo. In questo modo viene dato un valore relativo al rapporto zuccheri acidi per l’intero appezzamento.Per aggiungere una nuova analisi qualitativa bisogna cliccare su questa icona e poi: i) aggiungere la data dell'osservazione, ii) selezionare il campo, iii) selezionare il punto sulla mappa dove si è svolta l’analisi, iv) inserire i dati relativi a grado Brix, acidità totale, colorazione, buccia integra,danni, umidità esterna anormale o odore e/o sapore estraneiUna volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. Per ogni registrazione, puoi eseguire queste azioni:Nella vista dell'elenco delle analisi è disponibile la seguente opzione: Clicca questa icona e scegli in quale formato scaricare i dati:- \tExcel-Csv Monitoraggio Quantità: I dati relativi ai parametri quantitativi possono essere visualizzati in modo puntuale o per raggruppamento utilizzando le icone in alto a sinistra nella pagina.a \tPer visualizzare i dati puntuali, in particolare le analisi quantitative registrate dall’utente.Per visualizzare i dati raggruppati per campo. Selezionando questa icona e poi l’icona più (riportata in basso), l’utente può selezionare l’intervallo di tempo desiderato e mediare i dati registrati in tale intervallo. In questo modo viene data un’indicazione circa la necessità di effettuare il diradamento oppure no, se è stata inserita nel campo la resa attesa.\tPer aggiungere una nuova analisi qualitativa bisogna cliccare su questa icona e poi: i) aggiungere la data dell'osservazione, ii) selezionare il campo, iii) selezionare il punto sulla mappa dove si è svolta l’analisi, iv) inserire i dati relativi a calibro, diametro, peso, resa in succo.Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. Per ogni registrazione, puoi eseguire queste azioni:Nella vista dell'elenco delle analisi è disponibile la seguente opzione: Clicca questa icona e scegli in quale formato scaricare i dati:- Excel-Csv"
+      }
+    ]
+  },
+  {
+    "title": "LOTTI DI PRODUZIONE",
+    "page_start": 46,
+    "text_content": "Sul menu sulla sinistra sarà disponibile la voce Lotti Di Produzione. Con il tasto in alto a destra è possibile inserire un nuovo Lotto.Una volta cliccato si aprirà una sezione in cui dovranno essere compilati i campi obbligatori evidenti da unacornice rossa quali:•\tCodice del lotto, anche in modalità alfanumerica•ColturaIn maniera facoltativa possono essere inseriti:•Data di Conferimento•Stato (Aperto/Chiuso)•\tVarietàInseriti i dati si può procedere direttamente salvare il lotto oppure selezionare. Con salva e associa si individua l’operazione colturale precedentemente inserita all’interno della voce Lavoro- Operazione colturale.Se prendiamo ad esempio come operazione colturale la raccolta possiamo:Selezionare un intervallo di tempo in cui si sono effettuate le raccolte e inserire le tonnellate prodotte In questo caso nella prima raccolta 2 t di grano e nella seconda 1 tonnellata.Selezionare chiudi.Nella pagina dei lotti si vedrà una card come la seguente:In alto si può vedere il numero del lotto, all’interno la coltura, la varietà i campi e la quantità.Queste tre icone servono in ordine dall’alto verso il basso per:•Modificare•Eliminare•Accedere al QRCode Il QR code può essere stampato o scaricatoAttraverso il QR code, senza necessità di accedere all’account, da qualsiasi dispositivo puoi visualizzare la pagina dedicata alla scheda di tracciabilità del lotto dove sono riportati:•Nome del produttore •Luogo di origine•Dati sul lotto di produzione •Informazioni riguardanti le operazioni svolte durante la coltivazione e gli attributi aggiuntivi raccolti."
+  },
+  {
+    "title": "LAVORO",
+    "page_start": 50,
+    "text_content": "Nella sezione -LAVORO- è possibile tenere traccia delle attività da svolgere e inserire i dati relativi alle operazioni colturali da eseguire.",
+    "subsections": [
+      {
+        "title": "Attività",
+        "page_start": 50,
+        "text_content": "Per aggiungere una nuova attività è necessario cliccare su questa icona e poi aggiungere il titolo dell'attività e la descrizione, aggiungere la data di scadenza, selezionare il collaboratore responsabiledell'attività (per aggiungere un nuovo collega, vedere la sezione -IMPOSTAZIONI ACCOUNT-), selezionare il campo dove l'attività deve essere eseguita dal menu a tendina, assegnare una priorità all'attività, selezionare l'operazione dal menu a tendina, assegnare uno stato dell'attività e infine cliccare sul pulsante -Salva-.Sono disponibili due diverse viste:Clicca su questa icona per vedere l'elenco dei compiti insieme alle loro priorità e ai loro assegnatari.Potete anche cancellare direttamente un compito cliccando sull'icona del cestino.Cliccate su questa icona per avere una visione sintetica dei compiti raggruppati in base al loro stato (nuovo, assegnato, in corso, completato, chiuso). Da questa vista, è possibile trascinare e rilasciare un’attività da una categoria all'altra, cambiando così il suo stato."
+      },
+      {
+        "title": "Operazioni Colturali",
+        "page_start": 51,
+        "text_content": "Per aggiungere una nuova operazione è necessario cliccare su questa icona e selezionare la data, il tipo di operazione dal menu a tendina, selezionare i campi dove è stata effettuata l'operazione einfine cliccare sul pulsante salva."
+      },
+      {
+        "title": "Macchinari",
+        "page_start": 51,
+        "text_content": "Per aggiungere un nuovo macchinario aziendale è necessario cliccare su questa icona e selezionare la marca, il modello, identificativo e ulteriori dettagli. Una volta inserite tutte le informazioni, cliccare sul pulsante -Salva-. Per ogni macchinario, puoi eseguire queste azioni:Registrare anomalie del macchinario,Registrare manutenzioni ordinarie e straordinarie del macchinario,Visualizzare la scheda dettagliata del macchinario"
+      },
+      {
+        "title": "Operatori",
+        "page_start": 51,
+        "text_content": "Per aggiungere un nuovo operatore è necessario cliccare su questa icona, indicare la mail del nuovo utente e specificare il ruolo operatore. Una volta accettato l'invito, l'operatore diventa un utente Agricolus e verrà visualizzato sottoforma di card nella sezione operatori. Nella sezione operatori si vedono anche gli inviti pendenti degli utenti con ruolo operatore. Selezionando la scheda dell’operatore, si possono inserire informazioni relative a Scadenza contratto, Ore di lavoro settimanali, Costo orario ecc."
+      }
+    ]
+  },
+  {
+    "title": "CARICAMENTO MAPPE",
+    "page_start": 51,
+    "text_content": "Nella sezione -Caricamento Mappe- è possibile caricare le mappe relative ai vari campi. Le mappe si possono caricare in formato Raster o Shapefile, relative a:•\tMappe del Suolo (con indicazioni su classe tessiturale, conducibilità elettrica, peso specifico, pH, CSC, ecc.),•\tMappe di Resa (con indicazioni sulla resa quantitativa di ogni metro quadrato del campo, proteine, ecc.), •\tMappe multispettrali di vario tipo (NDVI, LAI, SAVI, GNDVI, WRDVI, TCARI/OSAVI, NDMI, NMDI, SINGOLE BANDE, ALTRO) elaborate da droni o da altri sistemi,•\tMappe Di Prescrizione e tanto altro.Per aggiungere una nuova mappa è necessario cliccare su questa icona e selezionare il formato, la categoria e ulteriori dettagli.Una volta inserite tutte le informazioni e selezionato il file, cliccare sul pulsante -Salva-. Per ogni mappa, puoi eseguire queste azioni:Geolocalizzare la mappa caricataScaricare la mappa in formato *tiffCancellare la mappa inserita"
+  },
+  {
+    "title": "HELP DESK",
+    "page_start": 52,
+    "text_content": "Nel caso serva assistenza tecnica o agronomica relativa alla piattaforma, potete utilizzare la chat in basso a sinistra o scrivere una e-mail a helpdesk@agricolus.com Per aiutarci a risolvere tutti i problemi che hai incontrato, ti chiediamo di fornirci i seguenti dettagli:- \tTipo di dispositivo: tablet, pc, ecc.- \tSistema operativo: iOS, Android, Windows, ecc.- \tBrowser: Google Chrome, Firefox, Internet Explorer, ecc.- \tAccount e-mail utilizzato per accedere ad Agricolus- \tNumero di telefono- \tDescrizione del problema"
+  },
+  {
+    "title": "APP MOBILE",
+    "page_start": 52,
+    "text_content": "",
+    "subsections": [
+      {
+        "title": "Agricolus: Precisione in campo",
+        "page_start": 52,
+        "text_content": "È possibile scaricare l'applicazione mobile di Agricolus sia dall'App Store che da Google Play. L'app permette a te e ai tuoi collaboratori di monitorare i campi ovunque tu sia, organizzare al meglio le attività e raccogliere dati direttamente sul campo, rendendo più facile la ricerca dei raccolti grazie alla geolocalizzazione delle tue attività"
+      }
+    ]
+  },
+  {
+    "title": "Contatti Agricolus srl",
+    "page_start": 52,
+    "text_content": "Via Settevalli,320 - 06129 Perugia - Partita IVA 06716550485 - Tel +39 075 997 5503 - discover@agricolus.com www.agricolus.com"
+  }
+]
